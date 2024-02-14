@@ -2,9 +2,8 @@ streamlit==1.24.0
 pandas==1.5.3
 pytesseract==0.3.10
 tesseract==0.1.3
-flask==1.0.2
+flask==3.0.2
 # NOTE These run to get tesseract working...
 # sudo apt update
 # sudo apt install tesseract-ocr
 # sudo apt install libtesseract-dev
-
